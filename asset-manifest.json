@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactBlog/static/css/main.33bb7475.chunk.css",
+    "main.js": "/ReactBlog/static/js/main.4de9391f.chunk.js",
+    "main.js.map": "/ReactBlog/static/js/main.4de9391f.chunk.js.map",
+    "runtime-main.js": "/ReactBlog/static/js/runtime-main.bc76f078.js",
+    "runtime-main.js.map": "/ReactBlog/static/js/runtime-main.bc76f078.js.map",
+    "static/js/2.f962de7f.chunk.js": "/ReactBlog/static/js/2.f962de7f.chunk.js",
+    "static/js/2.f962de7f.chunk.js.map": "/ReactBlog/static/js/2.f962de7f.chunk.js.map",
+    "index.html": "/ReactBlog/index.html",
+    "precache-manifest.f77747cb6cc0b993413d715dff08873d.js": "/ReactBlog/precache-manifest.f77747cb6cc0b993413d715dff08873d.js",
+    "service-worker.js": "/ReactBlog/service-worker.js",
+    "static/css/main.33bb7475.chunk.css.map": "/ReactBlog/static/css/main.33bb7475.chunk.css.map",
+    "static/js/2.f962de7f.chunk.js.LICENSE.txt": "/ReactBlog/static/js/2.f962de7f.chunk.js.LICENSE.txt",
+    "static/media/affection-baby-baby-girl-beautiful-377058.jpg": "/ReactBlog/static/media/affection-baby-baby-girl-beautiful-377058.80961a00.jpg",
+    "static/media/beautiful-&-simple.jpg": "/ReactBlog/static/media/beautiful-&-simple.4218ad92.jpg",
+    "static/media/cestovat-chladny-dno-jednoduchost-2868847.jpg": "/ReactBlog/static/media/cestovat-chladny-dno-jednoduchost-2868847.a67df138.jpg",
+    "static/media/fitness-blog-post.jpg": "/ReactBlog/static/media/fitness-blog-post.45c60c8a.jpg",
+    "static/media/memories-from.jpg": "/ReactBlog/static/media/memories-from.13ad316b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc76f078.js",
+    "static/js/2.f962de7f.chunk.js",
+    "static/css/main.33bb7475.chunk.css",
+    "static/js/main.4de9391f.chunk.js"
+  ]
+}
